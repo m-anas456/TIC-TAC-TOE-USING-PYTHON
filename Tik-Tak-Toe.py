@@ -224,5 +224,3 @@ def benchmark():
 
 # Run the benchmark
 benchmark()
-
-i want a top level GUI for this code
